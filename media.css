@@ -1,0 +1,177 @@
+
+@media screen and (max-width: 480px)   {
+    .filter-container h1 {
+        font-size: 2rem; 
+        font-weight: 400;   
+    }
+
+    .part-1 {
+        width: 80%;
+        height: 100%;
+        display: flex;
+        margin-right: 5%;
+    
+    }
+    
+    .part-2 {
+        width: 20%;
+        height: 100%;
+        display: flex;
+    
+    }
+    
+
+    .part-2-side {
+        width: 100%;
+        height: 100%;
+    }
+
+    .part-2-side .search {
+        width: 100%;
+        height: 50%;
+        display:flex;
+        flex-direction: column;
+        /* align-items:center; */
+        justify-content: flex-end;
+      
+    
+    }
+
+    .part-2-side .social {
+        width: 100%;
+        height: 50%;
+        display:flex;
+        flex-direction: column;
+        /* align-items:center; */
+        justify-content: flex-end;
+    
+    }
+
+    .part-2-big {
+        display: none;
+    
+    }
+   
+
+}
+
+
+@media screen and (max-width: 768px)   {
+    .filter-container h1 {
+        font-size: 2.4rem;    
+    }
+
+    .part-1 {
+        width: 80%;
+        height: 100%;
+        display: flex;
+        margin-right: 5%;
+    
+    }
+    
+    .part-2 {
+        width: 20%;
+        height: 100%;
+        display: flex;
+    
+    }
+    
+
+    .part-2-side {
+        width: 100%;
+        height: 100%;
+    }
+
+    .part-2-side .search {
+        width: 100%;
+        height: 50%;
+        display:flex;
+        flex-direction: column;
+        /* align-items:center; */
+        justify-content: flex-end;
+      
+    
+    }
+
+    .part-2-side .social {
+        width: 100%;
+        height: 50%;
+        display:flex;
+        flex-direction: column;
+        /* align-items:center; */
+        justify-content: flex-end;
+    
+    }
+
+    .part-2-big {
+        display: none;
+    
+    }
+
+
+
+    
+
+}
+
+
+
+@media screen and (max-width: 800px)   {
+    .filter-container h1 {
+        font-size: 2.8rem;    
+    }
+
+    .part-1 {
+        width: 80%;
+        height: 100%;
+        display: flex;
+        margin-right: 5%;
+    
+    }
+    
+    .part-2 {
+        width: 20%;
+        height: 100%;
+        display: flex;
+    
+    }
+    
+
+    .part-2-side {
+        width: 100%;
+        height: 100%;
+    }
+
+    .part-2-side .search {
+        width: 100%;
+        height: 50%;
+        display:flex;
+        flex-direction: column;
+        /* align-items:center; */
+        justify-content: flex-end;
+      
+    
+    }
+
+    .part-2-side .social {
+        width: 100%;
+        height: 50%;
+        display:flex;
+        flex-direction: column;
+        /* align-items:center; */
+        justify-content: flex-end;
+    
+    }
+
+    .part-2-big {
+        display: none;
+    
+    }
+
+
+
+    
+
+}
+
+
